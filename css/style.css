@@ -1,0 +1,186 @@
+body{
+	margin: 0px;
+	color: #40514E;
+	font-family: 'Merriweather', serif;
+	text-align: center;
+}
+
+.header{
+	background-color: #e3f7fa;
+	margin: 0px;
+}
+
+.intro {
+	text-align: center;
+	/*margin: 70px;*/
+}
+.intro h1 {
+	font-size: 90px;
+	font-family: 'Sacramento', cursive;
+	color: #51b2b5;
+	margin-top: 0px;
+	padding-top: 150px;
+	margin-bottom: 20px;
+}
+.intro h2 {
+	font-size: 40px;
+	font-family: 'Montserrat', sans-serif;
+	color: #51b2b5;
+}
+.mountain {
+	text-align: center;
+}
+
+.cloud1{
+	position: absolute;
+	right: 300px;
+	top: 40px;
+}
+.cloud2
+{
+	position: absolute;
+  	left: 250px;
+  	bottom: 300px;
+}
+
+.profile {
+	margin-top: 95px;
+	text-align: center;
+}
+
+.profile-pic {
+	height: 180px;
+	width: 180px;
+	border-radius: 40%;
+}
+
+.profile h2 {
+	font-size: 40px;
+	font-family: 'Montserrat', sans-serif;
+	color: #51b2b5;
+	font-weight: normal;
+}
+
+.description {
+	width: 30%;
+	margin: auto;
+	line-height: 2;
+	font-size: 16px;
+	
+}
+hr {
+	width: 4%;
+	margin: 100px auto;
+	border: dotted #EAF6F6 6px;
+	border-bottom: none;
+}
+
+.skills h2 {
+	font-size: 40px;
+	font-family: 'Montserrat', sans-serif;
+	color: #51b2b5;
+	font-weight: normal;
+}
+.skill-row {
+	width: 45%;
+	margin: 100px auto;
+	text-align: left;
+}
+.skill-row h3 {
+	color: #368a8a;
+	font-weight: bold;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.code-img{
+	width: 25%;
+	float: left;
+	margin-right: 30px;
+	margin-bottom: 30px;
+
+}
+
+.skill-row p{
+	line-height: 2;
+}
+
+.chilli-img {
+	float: right;
+	width: 25%;
+	margin-left: 30px;
+	margin-top: 0px;
+}
+
+.contact-me h2 {
+	font-size: 40px;
+	font-family: 'Montserrat', sans-serif;
+	color: #51b2b5;
+	font-weight: normal;
+}
+
+.contact-me h3 {
+	color: #368a8a;
+	font-weight: bold;
+	font-family: 'Montserrat', sans-serif;
+	margin-bottom: 40px;
+}
+
+.contact-me p {
+	width: 40%;
+	margin: auto;
+	line-height: 2;
+}
+
+.contact-me button {
+	margin: 30px;
+	width: 18%;
+	/*padding: 5px 15px;*/
+	border-radius: 8px;
+	color: white;
+	background-color: #2bc4ad;
+}
+.contact-me button:hover {
+	background-color: #30e3cb;
+}
+.contact-me h1 {
+	font-size: 17px;
+	font-family: 'Montserrat', sans-serif;
+	/*font-weight: normal;*/
+}
+.footer {
+	background-color: #51b2b5;
+	padding: 40px;
+	margin-top: 40px;
+}
+.footer p {
+	color: white;
+	padding: 30px;
+	font-size: 15px;
+}
+
+.footer a {
+	margin: 10px;
+	text-decoration: none;
+	color: #368a8a;
+	margin-top: 10px;
+}
+.footer a:hover {
+	color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
